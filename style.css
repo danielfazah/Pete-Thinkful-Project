@@ -2,7 +2,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Playfair+Display&family=Source+Sans+Pro:wght@400&display=swap");
 a{
   font-family: arial, sans-serif;
-  font-size=20 px
+  font-size: 20px;
+  margin-right: 20px;
+  
 }
 a:link{
   color:#d62828;
